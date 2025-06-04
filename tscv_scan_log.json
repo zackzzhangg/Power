@@ -1,0 +1,722 @@
+[
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 5,
+      "n_hidden": 3,
+      "lr": 0.005736152510448681,
+      "dropout": 0.4,
+      "batch_size": 12,
+      "activation": "sigmoid"
+    },
+    "mse": 0.07178492099046707
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 15,
+      "n_hidden": 6,
+      "lr": 0.0016102620275609393,
+      "dropout": 0.1,
+      "batch_size": 24,
+      "activation": "relu"
+    },
+    "mse": 0.0880856141448021
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 2,
+      "n_hidden": 36,
+      "lr": 0.06210169418915616,
+      "dropout": 0.4,
+      "batch_size": 24,
+      "activation": "elu"
+    },
+    "mse": 0.05962163582444191
+  },
+  {
+    "params": {
+      "optimizer": "adamax",
+      "num_layers": 12,
+      "n_hidden": 21,
+      "lr": 0.02395026619987486,
+      "dropout": 0.30000000000000004,
+      "batch_size": 120,
+      "activation": "tanh"
+    },
+    "mse": 0.06637245416641235
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 20,
+      "n_hidden": 12,
+      "lr": 0.03290344562312668,
+      "dropout": 0.30000000000000004,
+      "batch_size": 96,
+      "activation": "sigmoid"
+    },
+    "mse": 0.08137255162000656
+  },
+  {
+    "params": {
+      "optimizer": "adamax",
+      "num_layers": 8,
+      "n_hidden": 33,
+      "lr": 0.01487352107293511,
+      "dropout": 0.30000000000000004,
+      "batch_size": 12,
+      "activation": "tanh"
+    },
+    "mse": 0.06739972531795502
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 3,
+      "n_hidden": 6,
+      "lr": 0.006723357536499335,
+      "dropout": 0.30000000000000004,
+      "batch_size": 24,
+      "activation": "tanh"
+    },
+    "mse": 0.06773180514574051
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 3,
+      "n_hidden": 15,
+      "lr": 0.06210169418915616,
+      "dropout": 0.30000000000000004,
+      "batch_size": 48,
+      "activation": "relu"
+    },
+    "mse": 0.06250780075788498
+  },
+  {
+    "params": {
+      "optimizer": "adamax",
+      "num_layers": 5,
+      "n_hidden": 30,
+      "lr": 0.1,
+      "dropout": 0.4,
+      "batch_size": 120,
+      "activation": "sigmoid"
+    },
+    "mse": 0.12787307798862457
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 6,
+      "n_hidden": 18,
+      "lr": 0.0030391953823131978,
+      "dropout": 0.1,
+      "batch_size": 96,
+      "activation": "relu"
+    },
+    "mse": 0.2817676365375519
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 2,
+      "n_hidden": 15,
+      "lr": 0.007880462815669913,
+      "dropout": 0.2,
+      "batch_size": 48,
+      "activation": "elu"
+    },
+    "mse": 0.1445959210395813
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 20,
+      "n_hidden": 15,
+      "lr": 0.007880462815669913,
+      "dropout": 0.4,
+      "batch_size": 48,
+      "activation": "tanh"
+    },
+    "mse": 0.14822538197040558
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 3,
+      "n_hidden": 3,
+      "lr": 0.04520353656360243,
+      "dropout": 0.2,
+      "batch_size": 24,
+      "activation": "sigmoid"
+    },
+    "mse": 0.06431259959936142
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 3,
+      "n_hidden": 12,
+      "lr": 0.0018873918221350976,
+      "dropout": 0.1,
+      "batch_size": 96,
+      "activation": "relu"
+    },
+    "mse": 0.36006954312324524
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 4,
+      "n_hidden": 21,
+      "lr": 0.010826367338740546,
+      "dropout": 0.5,
+      "batch_size": 24,
+      "activation": "sigmoid"
+    },
+    "mse": 0.0696493536233902
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 12,
+      "n_hidden": 24,
+      "lr": 0.020433597178569417,
+      "dropout": 0.2,
+      "batch_size": 48,
+      "activation": "elu"
+    },
+    "mse": 0.07962402701377869
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 8,
+      "n_hidden": 21,
+      "lr": 0.03856620421163472,
+      "dropout": 0.5,
+      "batch_size": 12,
+      "activation": "relu"
+    },
+    "mse": 0.05778573080897331
+  },
+  {
+    "params": {
+      "optimizer": "adamax",
+      "num_layers": 15,
+      "n_hidden": 30,
+      "lr": 0.007880462815669913,
+      "dropout": 0.4,
+      "batch_size": 24,
+      "activation": "tanh"
+    },
+    "mse": 0.06686094403266907
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 2,
+      "n_hidden": 36,
+      "lr": 0.017433288221999882,
+      "dropout": 0.5,
+      "batch_size": 48,
+      "activation": "tanh"
+    },
+    "mse": 0.07793455570936203
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 2,
+      "n_hidden": 15,
+      "lr": 0.0013738237958832624,
+      "dropout": 0.4,
+      "batch_size": 96,
+      "activation": "tanh"
+    },
+    "mse": 0.23511619865894318
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 10,
+      "n_hidden": 9,
+      "lr": 0.04520353656360243,
+      "dropout": 0.1,
+      "batch_size": 120,
+      "activation": "elu"
+    },
+    "mse": 0.06761795282363892
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 8,
+      "n_hidden": 30,
+      "lr": 0.010826367338740546,
+      "dropout": 0.1,
+      "batch_size": 48,
+      "activation": "tanh"
+    },
+    "mse": 0.11967003345489502
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 2,
+      "n_hidden": 27,
+      "lr": 0.007880462815669913,
+      "dropout": 0.30000000000000004,
+      "batch_size": 96,
+      "activation": "elu"
+    },
+    "mse": 0.07300559431314468
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 12,
+      "n_hidden": 3,
+      "lr": 0.02807216203941177,
+      "dropout": 0.2,
+      "batch_size": 120,
+      "activation": "tanh"
+    },
+    "mse": 0.07093890756368637
+  },
+  {
+    "params": {
+      "optimizer": "adagrad",
+      "num_layers": 6,
+      "n_hidden": 36,
+      "lr": 0.05298316906283707,
+      "dropout": 0.4,
+      "batch_size": 48,
+      "activation": "sigmoid"
+    },
+    "mse": 0.08025716990232468
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 8,
+      "n_hidden": 18,
+      "lr": 0.0041753189365604,
+      "dropout": 0.1,
+      "batch_size": 24,
+      "activation": "elu"
+    },
+    "mse": 0.15097343921661377
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 20,
+      "n_hidden": 36,
+      "lr": 0.005736152510448681,
+      "dropout": 0.5,
+      "batch_size": 120,
+      "activation": "relu"
+    },
+    "mse": 0.2650303840637207
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 5,
+      "n_hidden": 9,
+      "lr": 0.001,
+      "dropout": 0.1,
+      "batch_size": 24,
+      "activation": "elu"
+    },
+    "mse": 0.10913149267435074
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 12,
+      "n_hidden": 24,
+      "lr": 0.009236708571873866,
+      "dropout": 0.5,
+      "batch_size": 96,
+      "activation": "tanh"
+    },
+    "mse": 0.06513499468564987
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 6,
+      "n_hidden": 12,
+      "lr": 0.0011721022975334804,
+      "dropout": 0.4,
+      "batch_size": 12,
+      "activation": "relu"
+    },
+    "mse": 0.2192419320344925
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 20,
+      "n_hidden": 21,
+      "lr": 0.0727895384398315,
+      "dropout": 0.4,
+      "batch_size": 12,
+      "activation": "relu"
+    },
+    "mse": 0.07034312933683395
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 20,
+      "n_hidden": 36,
+      "lr": 0.0016102620275609393,
+      "dropout": 0.5,
+      "batch_size": 96,
+      "activation": "elu"
+    },
+    "mse": 0.35983309149742126
+  },
+  {
+    "params": {
+      "optimizer": "adamax",
+      "num_layers": 8,
+      "n_hidden": 15,
+      "lr": 0.009236708571873866,
+      "dropout": 0.1,
+      "batch_size": 96,
+      "activation": "sigmoid"
+    },
+    "mse": 0.05776211619377136
+  },
+  {
+    "params": {
+      "optimizer": "adamax",
+      "num_layers": 20,
+      "n_hidden": 21,
+      "lr": 0.007880462815669913,
+      "dropout": 0.5,
+      "batch_size": 120,
+      "activation": "relu"
+    },
+    "mse": 0.09268134832382202
+  },
+  {
+    "params": {
+      "optimizer": "adagrad",
+      "num_layers": 20,
+      "n_hidden": 3,
+      "lr": 0.007880462815669913,
+      "dropout": 0.1,
+      "batch_size": 48,
+      "activation": "tanh"
+    },
+    "mse": 0.22077560424804688
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 3,
+      "n_hidden": 27,
+      "lr": 0.05298316906283707,
+      "dropout": 0.30000000000000004,
+      "batch_size": 96,
+      "activation": "tanh"
+    },
+    "mse": 0.3513733446598053
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 15,
+      "n_hidden": 24,
+      "lr": 0.0018873918221350976,
+      "dropout": 0.4,
+      "batch_size": 12,
+      "activation": "relu"
+    },
+    "mse": 0.07214253395795822
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 12,
+      "n_hidden": 24,
+      "lr": 0.010826367338740546,
+      "dropout": 0.5,
+      "batch_size": 24,
+      "activation": "sigmoid"
+    },
+    "mse": 0.3279879689216614
+  },
+  {
+    "params": {
+      "optimizer": "adagrad",
+      "num_layers": 3,
+      "n_hidden": 12,
+      "lr": 0.06210169418915616,
+      "dropout": 0.2,
+      "batch_size": 48,
+      "activation": "relu"
+    },
+    "mse": 0.06324569135904312
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 3,
+      "n_hidden": 6,
+      "lr": 0.002592943797404667,
+      "dropout": 0.30000000000000004,
+      "batch_size": 48,
+      "activation": "elu"
+    },
+    "mse": 0.11214696615934372
+  },
+  {
+    "params": {
+      "optimizer": "adagrad",
+      "num_layers": 2,
+      "n_hidden": 30,
+      "lr": 0.010826367338740546,
+      "dropout": 0.2,
+      "batch_size": 96,
+      "activation": "elu"
+    },
+    "mse": 0.20887406170368195
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 12,
+      "n_hidden": 15,
+      "lr": 0.1,
+      "dropout": 0.30000000000000004,
+      "batch_size": 12,
+      "activation": "elu"
+    },
+    "mse": 0.28834769129753113
+  },
+  {
+    "params": {
+      "optimizer": "adagrad",
+      "num_layers": 3,
+      "n_hidden": 21,
+      "lr": 0.017433288221999882,
+      "dropout": 0.2,
+      "batch_size": 48,
+      "activation": "sigmoid"
+    },
+    "mse": 0.06519261747598648
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 20,
+      "n_hidden": 3,
+      "lr": 0.0016102620275609393,
+      "dropout": 0.30000000000000004,
+      "batch_size": 24,
+      "activation": "sigmoid"
+    },
+    "mse": 0.14176645874977112
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 4,
+      "n_hidden": 36,
+      "lr": 0.0018873918221350976,
+      "dropout": 0.1,
+      "batch_size": 120,
+      "activation": "sigmoid"
+    },
+    "mse": 0.5196003317832947
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 6,
+      "n_hidden": 12,
+      "lr": 0.0041753189365604,
+      "dropout": 0.30000000000000004,
+      "batch_size": 48,
+      "activation": "elu"
+    },
+    "mse": 0.0703287199139595
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 3,
+      "n_hidden": 36,
+      "lr": 0.04520353656360243,
+      "dropout": 0.5,
+      "batch_size": 96,
+      "activation": "tanh"
+    },
+    "mse": 0.3534720242023468
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 8,
+      "n_hidden": 3,
+      "lr": 0.0018873918221350976,
+      "dropout": 0.4,
+      "batch_size": 48,
+      "activation": "tanh"
+    },
+    "mse": 0.20299319922924042
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 2,
+      "n_hidden": 3,
+      "lr": 0.010826367338740546,
+      "dropout": 0.2,
+      "batch_size": 24,
+      "activation": "tanh"
+    },
+    "mse": 0.06529835611581802
+  },
+  {
+    "params": {
+      "optimizer": "adam",
+      "num_layers": 10,
+      "n_hidden": 21,
+      "lr": 0.01487352107293511,
+      "dropout": 0.30000000000000004,
+      "batch_size": 48,
+      "activation": "relu"
+    },
+    "mse": 0.06491374224424362
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 2,
+      "n_hidden": 18,
+      "lr": 0.001,
+      "dropout": 0.30000000000000004,
+      "batch_size": 120,
+      "activation": "sigmoid"
+    },
+    "mse": 0.15456701815128326
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 6,
+      "n_hidden": 12,
+      "lr": 0.0016102620275609393,
+      "dropout": 0.5,
+      "batch_size": 24,
+      "activation": "relu"
+    },
+    "mse": 0.1128053069114685
+  },
+  {
+    "params": {
+      "optimizer": "nadam",
+      "num_layers": 10,
+      "n_hidden": 12,
+      "lr": 0.06210169418915616,
+      "dropout": 0.4,
+      "batch_size": 24,
+      "activation": "tanh"
+    },
+    "mse": 0.06458234041929245
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 10,
+      "n_hidden": 33,
+      "lr": 0.007880462815669913,
+      "dropout": 0.4,
+      "batch_size": 120,
+      "activation": "elu"
+    },
+    "mse": 0.23490910232067108
+  },
+  {
+    "params": {
+      "optimizer": "adagrad",
+      "num_layers": 10,
+      "n_hidden": 21,
+      "lr": 0.004893900918477494,
+      "dropout": 0.4,
+      "batch_size": 120,
+      "activation": "tanh"
+    },
+    "mse": 0.29973649978637695
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 6,
+      "n_hidden": 12,
+      "lr": 0.0018873918221350976,
+      "dropout": 0.2,
+      "batch_size": 12,
+      "activation": "elu"
+    },
+    "mse": 0.16700376570224762
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 6,
+      "n_hidden": 15,
+      "lr": 0.0727895384398315,
+      "dropout": 0.5,
+      "batch_size": 48,
+      "activation": "tanh"
+    },
+    "mse": 0.34444311261177063
+  },
+  {
+    "params": {
+      "optimizer": "adamax",
+      "num_layers": 4,
+      "n_hidden": 33,
+      "lr": 0.02807216203941177,
+      "dropout": 0.1,
+      "batch_size": 48,
+      "activation": "tanh"
+    },
+    "mse": 0.05891996994614601
+  },
+  {
+    "params": {
+      "optimizer": "sgd",
+      "num_layers": 4,
+      "n_hidden": 3,
+      "lr": 0.020433597178569417,
+      "dropout": 0.2,
+      "batch_size": 120,
+      "activation": "elu"
+    },
+    "mse": 0.14732520282268524
+  },
+  {
+    "params": {
+      "optimizer": "adadelta",
+      "num_layers": 10,
+      "n_hidden": 15,
+      "lr": 0.05298316906283707,
+      "dropout": 0.2,
+      "batch_size": 12,
+      "activation": "elu"
+    },
+    "mse": 0.31523674726486206
+  }
+]

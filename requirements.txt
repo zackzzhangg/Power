@@ -1,0 +1,22 @@
+# ===== Core numerical & data handling =====
+numpy>=1.26,<2.0
+pandas>=2.2,<3.0
+
+# ===== Machine-learning stack =====
+scikit-learn>=1.6,<2.0          # 评估指标 / 数据切分
+tensorflow==2.16.1              # 自带 tf.keras，已匹配 Python 3.11
+
+# ===== Optimizers =====
+optuna>=3.6,<4.0                # 贝叶斯超参搜索
+deap>=1.4,<2.0                  # 遗传算法 GA
+
+# ===== Utilities =====
+tqdm>=4.66,<5.0                 # 进度条显示
+
+numpy>=1.26,<2.0
+pandas>=2.2,<3.0
+scikit-learn>=1.6,<2.0
+tensorflow==2.16.1          # 或 tensorflow-cpu==2.16.1
+matplotlib>=3.8,<4.0
+scikeras[tensorflow]>=0.12,<1.0
+tqdm>=4.66,<5.0
